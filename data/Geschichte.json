@@ -1,18 +1,18 @@
 [
     {
-        "question": "1",
-        "answer":"1"
+        "question": "Was versteht man unter manueller Datenverarbeitung?",
+        "answer":"Die Berechnung und Datenmanipulation ohne jegliche Hilfsmittel"
     },
     {
-        "question": "2",
-        "answer":"2"
+        "question": "Was versteht man unter mechanische Datenverarbeitung",
+        "answer":"Verwendung von mechanischen Hilfsmittel für die Verarbeitung von Informationen. zB: Schreibmaschine / Rechenschhieber"
     },
     {
-        "question": "3",
-        "answer":"3"
+        "question": "Was versteht man unter elektrischer Datenverarbeitung",
+        "answer":"Es werden elektrische Hilfsmittel eingesetzt. zB: Registrierkasse"
     },
     {
-        "question": "4",
-        "answer":"4"
+        "question": "Was versteht man unter elektronischer Datenverarbeitung",
+        "answer":"Verwentet elektronisch gesteuerte Arbeitsmittel. zB: Computer"
     }
 ]

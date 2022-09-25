@@ -1,0 +1,10 @@
+um neue Daten hinzuzufügen in Html neues div mit onclick="toPage2(Name der Json Datei)"
+neue Fragen in Json 
+                {
+                    "question":"die Frage",
+                    "answer":"Die antwort"
+                }
+
+                Json Name muss gleicher sein wie in Funktion
+
+gegebenenfalls noch in css den Button eine Farbe geben

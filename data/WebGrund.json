@@ -1,0 +1,14 @@
+[
+    {
+        "question":"Was bedeutet Html?",
+        "answer": "Hypertext Markup Language"
+    },
+    {
+        "question":"Was bedeutet CSS?",
+        "answer":"Cascading Style Sheet"
+    },
+    {
+        "question":"Was ist CSS?",
+        "answer": "CSS ist eine Formatierungssprache um das Layout und Design von Webseiten zu definieren."
+    }
+]
