@@ -67,3 +67,68 @@ h3{
     background-color: rgb(231, 182, 109);
     cursor: pointer;
 }
+
+
+/* ----------------------Page2---------------------- */
+
+#page2{
+    display: none;
+    border: 5px solid lightblue;
+    border-radius: 20px;
+    margin: 2rem;
+}
+
+.card{
+    text-align: center;
+    border: 5px solid rgb(255, 119, 119);
+    margin: 0.5rem;
+    min-height: 85vh;
+    position: relative;
+}
+
+.card h3{
+    font-size: 2rem;
+}
+
+.card hr{
+    margin-bottom: 3rem;
+}
+
+.card div{
+    font-size: 1.5rem;
+}
+
+#question{
+    margin-bottom: 5%;
+}
+
+.action-btn{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    width: 100%;
+    bottom: 20px;
+    gap: 70%;
+}
+
+.action-btn div{
+    height: 3rem;
+}
+
+#next-btn{
+    background-color: greenyellow;
+}
+
+#next-btn:hover{
+    background-color: rgb(211, 255, 146);
+    cursor: pointer;
+}
+
+#home-btn{
+    background-image: url('../img/tafel.jpg');
+    color: var(--color-white);
+}
+
+#home-btn:hover{
+    cursor: pointer;
+}

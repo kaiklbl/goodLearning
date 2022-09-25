@@ -8,6 +8,7 @@
     <title>GoodLearn</title>
 </head>
 <body>
+    <div id="page1">
     <!--  ------------------hero--------------------->
     <div id="hero" class="br">
         <h1>GoodLearn</h1>
@@ -18,7 +19,7 @@
     <!-- ------------------auswahlmöglichkeiten------------------ -->
     <h3>IT</h3>
     <div class="grid-container">
-        <div class="grid-item br" id="history">Geschichte</div>
+        <div class="grid-item br" id="history" onclick="toPage2('Geschichte')">Geschichte</div>
         <div class="grid-item br">HTML</div>
         <div class="grid-item br">CSS</div>
         <div class="grid-item br">JavaScript</div>
@@ -27,6 +28,21 @@
         <div class="grid-item br">Mathematik</div>
         <div class="grid-item br">Hardware</div>
     </div>
+</div>
+
+<!-- -----------------------Page2------------------------------------ -->
+<div id="page2">
+    <div class="card br">
+        <h3 id="card-h3"></h3>
+        <hr>
+        <div id="question">Was ist nix mal ganz viel</div>
+        <div id="answer">natürlich kommt da garnix raus</div>
+        <div class="action-btn">
+            <div class="br" id="home-btn">Startseite</div>
+            <div id="next-btn" class="br">Weiter</div>
+        </div>
+    </div>
+</div>
 </body>
 <script src="js/main.js"></script>
 </html>
