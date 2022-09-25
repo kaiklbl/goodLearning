@@ -21,12 +21,13 @@ const displayToFrom = (block,none) =>{
 
 
 //--------------------------Page1------------------------------ 
+let arr;
 
 // Buttonfunktionen
 const toPage2 = name =>{
-    fetchData(name)
     displayToFrom(page2,page1);
     cardh3.textContent = name;
+    arr = fetchData(name);
 }
 
 
@@ -44,23 +45,25 @@ homeBtn.addEventListener('click',() =>{
 const fetchData = name =>{
     fetch(`data/${name}.json`)
     .then(response => response.json())
-    .then(result => {
-        let random = randomNum(result.indexOf(result.at(-1))+1);     
-        question.textContent = result[random].question;
-        let num = 0;
-        nextBtn.addEventListener('click',e=>{
-            if(num == 0){
-                answer.textContent = result[random].answer;
-                num++;
-            }else{
-                answer.textContent = '';
-                random = randomNum(result.indexOf(result.at(-1))+1);
-                num--;
-                question.textContent = result[random].question;      
-            }
-        })
-    })
+    .then(result => {arr=result;})
     .catch(err => console.log(err));
 }
 
+
 const randomNum = result => Math.floor(Math.random()* result);
+
+
+let num = 1;
+let random = 1;
+nextBtn.addEventListener('click',()=>{
+    if(num == 0){
+        answer.textContent = arr[random].answer;
+        num++;
+    }else{
+        answer.textContent = '';
+        num--;
+        random = randomNum(arr.indexOf(arr.at(-1))+1);
+        question.textContent = arr[random].question;  
+    }
+})
+
