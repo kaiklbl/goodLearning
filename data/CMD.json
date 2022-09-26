@@ -1,0 +1,26 @@
+[
+    {
+        "question": "Was macht der Befehl @echo off ?",
+        "answer":"Blendet den Dateipfad aus , so dass man nur mehr ein leeres Fenster sieht"
+    },
+    {
+        "question":"Was macht der Befehl cls ?",
+        "answer": "Leert das fenster wieder."
+    },
+    {
+        "question":"Was macht der Befehl ipconfig ?",
+        "answer":"Zeigt deine ganzen IP-Daten an."
+    },
+    {
+        "question":"Was macht der Befehl tree ?",
+        "answer":"zeigt alle Verzeichnisse auf in Form von einem Stammbaum"
+    },
+    {
+        "question":"Was macht der Befehl dir ?",
+        "answer":"Listet die Dateien und Unterverzeichnisse eines Verzeichnisses auf."
+    },
+    {
+        "question":"Was macht der Befehl title ?",
+        "answer":"Ändert den Titel der vom cmd Fenster"
+    }
+]

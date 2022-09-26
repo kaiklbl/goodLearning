@@ -10,5 +10,41 @@
     {
         "question":"Was ist CSS?",
         "answer": "CSS ist eine Formatierungssprache um das Layout und Design von Webseiten zu definieren."
+    },
+    {
+        "question":"Was ist UTF-8 ?",
+        "answer":"(8-Bit UCS Transformation Format, UCS =Universal Coded Character Set), Ist die am weitesten verbreitete Kodierung für Unicode-Zeichen"
+    },
+    {
+        "question":"Was bedeutet Refactoring ?",
+        "answer":"Heißt einen code sauberer und schöner zum Gestalten und leichter lesbarer für andere Programmierer zu machen. Auch code zu verkürzen."
+    },
+    {
+        "question": "Was bedeutet URL ?",
+        "answer": "Uniform Resource Locater / Ist ein eindeutiger Wegweiser zu einer Seite."
+    },
+    {
+        "question":"Was bedeutet API ?",
+        "answer":"application programming interface /(Programmierschnittstellen)"
+    },
+    {
+        "question":"Was bedeutet PHP ?",
+        "answer":"früher(Personal Homepage Tool) heute Hypertext Preprocessor"
+    },
+    {
+        "question": "Was ist Cache?",
+        "answer":"Speicher der im Browser hinterlegt wird um zB: Seiten schneller zu laden"
+    },
+    {
+        "question":"Was bedeutet http ?",
+        "answer":"Hypertext Transfer Protocol / Ist ein Protocol um Daten zu übertragen hauptsächlich um Webseiten auf einem Webbrowser zu laden."
+    },
+    {
+        "question": "Was ist https ?",
+        "answer":"Hypertext Transfer Protocol Secure/ Ist ein Protocol mit dem Daten    abhörsicher übertragen werden können. Dies wird durch Verschlüsselung und Authentifizierung erreicht. "
+    },
+    {
+        "question":"Was bedeutet Ajax ?",
+        "answer": "Asynchrones JavaScript and XML"
     }
 ]
