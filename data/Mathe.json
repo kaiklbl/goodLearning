@@ -1,0 +1,26 @@
+[
+    {
+        "question":"Was sind natürliche Zahlen ?",
+        "answer":"Natürliche Zahlen sind alle Zahlen, mit denen sich Anzahlen ausdrücken lassen. 1, 2, 3 (0 gehört nicht dazu)"
+    },
+    {
+        "question":"Was sind Ganze Zahlen ?",
+        "answer":"Sind Zahlen ohne Nachkommastellen aber auch mit der 0 und - Zahlen."
+    },
+    {
+        "question":"Was sind rationale Zahlen ?",
+        "answer":"Das sind sämtliche Zahlen die durch die Division zweier ganzer Zahlen gebildet werden können."
+    },
+    {
+        "question":"Was sind reelle Zahlen ?",
+        "answer":"Sind Zahlen mit unendlich vielen Nachkommastellen ohne Wiederholungen. zB: pi, e, oder Wurzel(2)"
+    },
+    {
+        "question":"Was sind komplexe Zahlen ?",
+        "answer":"Die komplexen Zahlen enthalten alle reellen Zahlen plus die imaginäre Zahl i."
+    },
+    {
+        "question":"",
+        "answer":""
+    }
+]
