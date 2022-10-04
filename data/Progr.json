@@ -1,0 +1,14 @@
+[
+    {
+        "question":"Was ist ein Algorythmus ?",
+        "answer":"Ist eine Schritt für Schritt Anleitung zur Lösung mathematischer Probleme"
+    },
+    {
+        "question":"Was sind natürliche Zahlen ?",
+        "answer":"Natürliche Zahlen sind alle Zahlen, mit denen sich Anzahlen ausdrücken lassen."
+    },
+    {
+        "question":"Was sind Ganze Zahlen ?",
+        "answer":"Sind Zahlen ohne Nachkommastellen aber auch mit der 0 und - Zahlen."
+    }
+]
