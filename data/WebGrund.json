@@ -48,6 +48,66 @@
         "answer": "Asynchrones JavaScript and XML"
     },
     {
+        "question":"Was ist eine Datenbank ?",
+        "answer":"Eine Datenbank ist ein System zur verwaltung von elektronischen Daten"
+    },
+    {
+        "question":"Was bedeutet Desktop First ?",
+        "answer":"Kommt aus den responsive Webdesign. Hierbei wird zuerst die Desktop version gemacht und dann Tablet und Mobile"
+    },
+    {
+        "question":"Was ist ein Device ?",
+        "answer":"Bedeutet übersetzt Gerät, im zusammenhang mit dem Internet zum Abfragen und Darstellen von Informationen."
+    },
+    {
+        "question":"Für was steht der Begriff DHTML ?",
+        "answer":"Dynamisches HTML."
+    },
+    {
+        "question":"Was heißt DNS",
+        "answer":"Domain Name Server."
+    },
+    {
+        "question":"Was macht DNS ?",
+        "answer":"Sorgt dafür dass die Website mit ihrem Domain-Namen ereichbar ist. Der User gibt den Namen ein und es wird nach der passenden IP-Adresse gesucht.(so wie Telefonbuch)"
+    },
+    {
+        "question":"Was ist eine Domain ?",
+        "answer":"Ist der eindeutige Name mit der ein Internetauftritt erreichbar ist. Das www gehört nicht zur domain. Die Buchstaben nach den letzten punkt nennt man  Top level Domain.(TLD)"
+    },
+    {
+        "question":"Was ist Drupal ?",
+        "answer":"Ein Content Management System (CMS). Ist in PHP geschrieben."
+    },
+    {
+        "question":"Was bedeutet FAQ ?",
+        "answer":"Frequently Asked Question ?"
+    },
+    {
+        "question":"Was ist ein FavIcon ?",
+        "answer":"Das kleine Symbol, das im Browser oben in der Tableiste links vom Seitennamen zu sehen ist."
+    },
+    {
+        "question":"Was bedeutet FTP ?",
+        "answer":"File Transfer Protokoll."
+    },
+    {
+        "question":"Was bedeutet GUI ?",
+        "answer":"Graphical User Interface."
+    },
+    {
+        "question":"Was macht iframe ?",
+        "answer":"Ist ein HTML Tag mit dem man andere Webseiten, in einem kleinen Fenster, in der eigenen einbinden kann."
+    },
+    {
+        "question":"Was ist Joomla ?",
+        "answer":"Ein Content Management System (CMS). Ist in PHP geschrieben."
+    },
+    {
+        "question":"Was ist jQuery",
+        "answer":"Ist eine Java-Script-Bibliiothek, die es sehr komfortabel erlaubt auf das DOM zuzugreifen."
+    },
+    {
         "question":"",
         "answer":""
     }

@@ -36,6 +36,8 @@ const toPage2 = name =>{
 
 homeBtn.addEventListener('click',() =>{
     displayToFrom(page1,page2);
+    num = 1;
+    random = 1;
 })
 
 

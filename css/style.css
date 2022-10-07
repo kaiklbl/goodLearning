@@ -86,6 +86,25 @@ h3{
     cursor: pointer;
 }
 
+#programmer{
+    background-color: firebrick;
+}
+
+#programmer:hover{
+    background-color: #d65252;
+    cursor: pointer;
+}
+
+#mathe{
+    background-color: green;
+}
+
+#mathe:hover{
+    background-color: #15be15;
+    cursor: pointer;
+}
+
+
 /* ----------------------Page2---------------------- */
 
 #page2{
@@ -148,4 +167,27 @@ h3{
 
 #home-btn:hover{
     cursor: pointer;
+}
+
+
+/* -------------------media queries------------------- */
+
+@media(max-width:1000px){
+    .grid-container{
+        grid-template-columns: auto auto auto;
+    }
+}
+
+
+@media(max-width:740px){
+    .grid-container{
+        grid-template-columns: auto auto;
+    }
+}
+
+
+@media(max-width:480px){
+    .grid-container{
+        grid-template-columns:auto;
+    }
 }

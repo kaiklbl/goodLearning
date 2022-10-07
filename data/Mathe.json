@@ -20,7 +20,55 @@
         "answer":"Die komplexen Zahlen enthalten alle reellen Zahlen plus die imaginäre Zahl i."
     },
     {
-        "question":"",
-        "answer":""
+        "question":"2 hoch 0 ?",
+        "answer":"1"
+    },
+    {
+        "question":"2 hoch 1 ?",
+        "answer":"2"
+    },
+    {
+        "question":"2 hoch 2 ?",
+        "answer":"4"
+    },
+    {
+        "question":"2 hoch 3 ?",
+        "answer":"8"
+    },
+    {
+        "question":"2 hoch 4 ?",
+        "answer":"16"
+    },
+    {
+        "question":"2 hoch 5 ?",
+        "answer":"32"
+    },
+    {
+        "question":"2 hoch 6 ?",
+        "answer":"64"
+    },
+    {
+        "question":"2 hoch 7 ?",
+        "answer":"128"
+    },
+    {
+        "question":"2 hoch 8 ?",
+        "answer":"256"
+    },
+    {
+        "question":"2 hoch 9 ?",
+        "answer":"512"
+    },
+    {
+        "question":"2 hoch 10 ?",
+        "answer":"1024"
+    },
+    {
+        "question":"2 hoch 16 ?",
+        "answer":"65536"
+    },
+    {
+        "question":"2 hoch 24 ?",
+        "answer":"16.7 mio"
     }
 ]
