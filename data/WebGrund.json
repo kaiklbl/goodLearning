@@ -108,6 +108,34 @@
         "answer":"Ist eine Java-Script-Bibliiothek, die es sehr komfortabel erlaubt auf das DOM zuzugreifen."
     },
     {
+        "question":"Was ist HTML ?",
+        "answer":"Eine Seitenbeschreibungssprache mit der Inhalte und Strukturen von Webseiten definiert werden."
+    },
+    {
+        "question":"Was ist PHP für eine Sprache?",
+        "answer":"Ist eine Serverseitige Programmiersprache. Ist eine Interpretersprache.Muss am Server vorhanden sein das es funktioniert. Wird direkt beim Server übersetzt. Man kann OOP oder prodezual programmieren."
+    },
+    {
+        "question":"Was bedeutet Open Source?",
+        "answer":"Als Open Source  wird Software bezeichnet, deren Quelltext öffentlich und von Dritten eingesehen, geändert und genutzt werden kann."
+    },
+    {
+        "question":"Was ist SVG?",
+        "answer":"Scalable Vector Graphics.   Eine SVG-Datei ist eine Grafikdatei, die ein zweidimensionales Vektorgrafikformat verwendet."
+    },
+    {
+        "question":"Was sind Cookies?",
+        "answer":"Ein Cookie ist ein kleines Datenpaket in Form einer Textdatei, die lokal auf dem Computer des Users gespeichert wird. Wie lange die Cookie-Daten abgelegt werden, wird beim Erzeugen des Cookies festgelegt und sind in der Regel für die langfristige Speicherung angelegt "
+    },
+    {
+        "question":"Was ist eine Session?",
+        "answer":"Eine Session wird verwendet, um Daten vorübergehend zu speichern. Die Session wird vollständig beendet (zerstört), wenn der User das PHP-Programm verlässt, also den Browser schließt. Sessions werden (anders als Cookies) auf dem Server verwaltet."
+    },
+    {
+        "question":"",
+        "answer":""
+    },
+    {
         "question":"",
         "answer":""
     }

@@ -2,5 +2,93 @@
     {
         "question":"Was ist ein Algorythmus ?",
         "answer":"Ist eine Schritt für Schritt Anleitung zur Lösung mathematischer Probleme"
+    },
+    {
+        "question":"Welche primitiven Datentypen gibt es in JavaScript?",
+        "answer":"Strings/ Number / Boolean/ Null/ Undefined/ NaN"
+    },
+    {
+        "question":"Welche Komplexen Datentypen hat JavaScript?",
+        "answer":"Objekte und Funktionen"
+    },
+    {
+        "question":"Welche primitiven Datentypen gibt es in PHP?",
+        "answer":"String/ Int/ Float/ Bool/ Undefined/ Null"
+    },
+    {
+        "question":"Welche komplexen Datentypen gibt es in Php?",
+        "answer":"Arrays / assoziative Arrays /Objekte"
+    },
+    {
+        "question":"Was ist eine Datenbank?",
+        "answer":"Digitales System zur effizienten und widerspruchsfreien Speicherung von Daten."
+    },
+    {
+        "question":"Was ist die Normalisierung?",
+        "answer":"Normalisierung beschreibt den Prozess der Strukturierung und Umorganisation eines relationalen Datenbankschemas. Informationen werden in mehrere Tabellen aufgeteilt und über Beziehungen mit dem Ziel miteinander verknüpft, Redundanzen, Inkonsistenzen und Anomalien zu vermeiden und beseitigen."
+    },
+    {
+        "question":"Welche primitiven Datentypen hat Python?",
+        "answer":"Bool/ Strings / Int/ Float/ Null/ undefined"
+    },
+    {
+        "question":"Welche komplexen Datentypen hat Python?",
+        "answer":"Arrays == list/ tuples/ dictionary/ set  /// Objekte"
+    },
+    {
+        "question":"Was ist JSON?",
+        "answer":"Die JavaScript Object Notation (JSON) ist ein kompaktes Datenformat in einer einfach lesbaren Textform für den Datenaustausch zwischen Anwendungen"
+    },
+    {
+        "question":"Was ist eine Rekursive Funktion?",
+        "answer":"Eine Rekursive Funktion ist eine Funktion, die sich selbst wieder aufruft"
+    },
+    {
+        "question":"Welche Arten von Fehlermeldungen gibt es?",
+        "answer":"Syntax Errors/ Runtime Errors/ Logical Errors"
+    },
+    {
+        "question":"Was sind Methoden in OOP?",
+        "answer":"Funktionen was es alles kann"
+    },
+    {
+        "question":"Was sind Properties in OOP?",
+        "answer":"Eigenschaften."
+    },
+    {
+        "question":"Wie sollte ein guter Code geschrieben sein?",
+        "answer":"Modular / wieder verwertbar/ wartbar/ lesbar/ erweiterbar/ testbar"
+    },
+    {
+        "question":"Was ist ein Compiler?",
+        "answer":"Ein Compiler ist ein Computerprogramm, das den gesamten Quellcode eines Software-Projekts noch vor dessen Ausführung in Maschinensprache übersetzt. "
+    },
+    {
+        "question":"Was ist ein Interpreter?",
+        "answer":"Ein Interpreter ist ein Computerprogramm, das den Quellcode eines Software-Projekts während dessen Laufzeit – also während es ausgeführt wird – verarbeitet und als Schnittstelle zwischen diesem Projekt und dem Prozessor fungiert"
+    },
+    {
+        "question":"Was ist Prodecuale Programmierung?",
+        "answer":"Ist eine Art der strukturierten Programmierung. Mit ihr wird eine Gesamtaufgabe, in kleinere Teilaufgaben unterteilt. Außerdem kann der entstehende Programmcode in anderen Programmen wieder verwendet werden, ein sehr wichtiger Aspekt in der Softwaretechnik."
+    },
+    {
+        "question":"Was ist Deglarative Programmierung?",
+        "answer":"Maschine arbeitet teilweiße selbst zB: Math.random().      Wollen immer ein gewünschtes Endergebnis erreichen. Arbeiten mit einem hohen Abstraktionsniveu."
+    },
+    {
+        "question":"Welche Sortier Algorithmen gibt es?",
+        "answer":"Bubble Sort/ Insert Sort/ Selection Sort/ Merge Sort "
+    },
+    {
+        "question":"",
+        "answer":""
+    },
+    {
+        "question":"",
+        "answer":""
+    },
+    {
+        "question":"",
+        "answer":""
     }
 ]

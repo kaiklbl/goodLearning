@@ -1,0 +1,18 @@
+[
+    {
+        "question":"Erkläre: Was sind Volt",
+        "answer":"Volt ist eine Einheit für die Kraft (Spannung), mit der der Strom angetrieben wird. Aus einer herkömmlichen Wandsteckdose beispielsweise kommt Strom mit 230 Volt.  Stromeinheit Volt = Watt/Ampere"
+    },
+    {
+        "question":"Erkläre: Was sind Ampere",
+        "answer":"Ampere ist eine Einheit für Stromstärke. Also quasi für die Strommenge, die fließt.   Stromeinheit Ampere = Watt/Volt"
+    },
+    {
+        "question":"Erkläre: Was sind Watt",
+        "answer":"Ist die Stromeinheit für elektrische Leistung. Die elektrische Leistung ergibt sich zusammen aus Volt und Ampere.    Stromeinheit Watt = Volt*Ampere"
+    },
+    {
+        "question":"Erkläre: Was sind Ohm",
+        "answer":"Ohm ist die Stromeinheit für elektrischen Widerstand."
+    }
+]
