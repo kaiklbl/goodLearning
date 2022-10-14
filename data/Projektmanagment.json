@@ -1,15 +1,15 @@
 [
     {
-        "question":"",
-        "answer":""
+        "question":"Was ist das Kanban Board?",
+        "answer":"Ein Kanban Board ist ein agiles Projektmanagement-Tool, mit dem du deine Aufgaben visualisieren, laufende (WIP-)Aufgaben begrenzen und die Effizienz steigern bzw. den Workflow optimieren kannst."
     },
     {
-        "question":"",
-        "answer":""
+        "question":"Was ist das Scrum Modell?",
+        "answer":"Scrum ist eine agile Methodik im Bereich Projektmanagement, welche flexibel auf diverse Projekte angewendet werden kann. Es unterscheidet sich zum klassischen Projektmanagement in der Hinsicht, dass es keine Projektleitung mehr gibt, welche die Aufgaben an die Teammitglieder verteilt."
     },
     {
-        "question":"",
-        "answer":""
+        "question":"Welche Rollen gibt es im Scrum Modell?",
+        "answer":"Product Owner // Scrum Master // Development Team"
     },
     {
         "question":"",
