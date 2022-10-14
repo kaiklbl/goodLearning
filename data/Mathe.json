@@ -70,5 +70,49 @@
     {
         "question":"2 hoch 24 ?",
         "answer":"16.7 mio"
+    },
+    {
+        "question":"Was ist die kleinstmögliche Einheit für Daten?",
+        "answer":"1 bit ist die kleinstmögliche Einheit für Daten "
+    },
+    {
+        "question":"Wie viel bit ist ein byte?",
+        "answer":" 1 byte = 8 bit"
+    },
+    {
+        "question":"Wie viel byte ist ein Kibibyte?",
+        "answer":"1 Kilobyte = 1024 byte oder 8192 bit."
+    },
+    {
+        "question":"Wie viel Kibibyte ist ein Mebibyte?",
+        "answer":"1 Mebibyte = 1024 Kibibyte oder 8.388.608 bit. "
+    },
+    {
+        "question":"Wie viel Mebibyte ist ein Gibibyte?",
+        "answer":"1 Gebibyte = 1024 Mebibyte oder 8.589.934.592"
+    },
+    {
+        "question":"Wie viel Gibibyte ist ein Tebibyte?",
+        "answer":"1 Tebibyte = 1024 Gibibyte."
+    },
+    {
+        "question":"Wie viel Tebibyte ist ein Pebibyte (Petabyte)?",
+        "answer":"1 Pebibyte = 1024 Tebibyte."
+    },
+    {
+        "question":"Wie viel Pebibyte ist ein Exbibyte (Exabyte)?",
+        "answer":"1 Exbibyte = 1024 Pebibyte."
+    },
+    {
+        "question":"",
+        "answer":""
+    },
+    {
+        "question":"",
+        "answer":""
+    },
+    {
+        "question":"",
+        "answer":""
     }
 ]

@@ -132,6 +132,38 @@
         "answer":"Eine Session wird verwendet, um Daten vorübergehend zu speichern. Die Session wird vollständig beendet (zerstört), wenn der User das PHP-Programm verlässt, also den Browser schließt. Sessions werden (anders als Cookies) auf dem Server verwaltet."
     },
     {
+        "question":"Was sind CSV Dateien?",
+        "answer":"comma separated values / beschreibt den Aufbau und die Struktur einer Textdatei. Der Zweck ist dabei die einheitliche Darstellung von Daten, sodass diese zwischen IT-Systemen ausgetauscht werden können."
+    },
+    {
+        "question":"Welche http Statuscodes gibt es? (Nur die was die 100er Schritte bedeuten)",
+        "answer":"100 Informationen/ 200 Erfolgreich /300 Umleitungen / 400 Client Fehler / 500 Server Fehler "
+    },
+    {
+        "question":"Was ist eine IP-Adresse?",
+        "answer":"Internet-Protocol-Adresse/ Ist die Adresse des Geräts in einem Netzwerk. Ein Router hat sogar zwei IP-Adressen, eine interne und eine öffentliche. Daweil ist noch IPV4 Standard. Es kann bis zu 4 Milliarden Geräten eine IP vergeben (32 Zeichen). Weil es zu wenig sind wechselt es jedes Mal beim Ausschalten. IPV6 kann bis zu 360 Sextillionen verschieden IPs haben. Nachteil Anonymität."
+    },
+    {
+        "question":"",
+        "answer":""
+    },
+    {
+        "question":"",
+        "answer":""
+    },
+    {
+        "question":"",
+        "answer":""
+    },
+    {
+        "question":"",
+        "answer":""
+    },
+    {
+        "question":"",
+        "answer":""
+    },
+    {
         "question":"",
         "answer":""
     },
@@ -139,4 +171,5 @@
         "question":"",
         "answer":""
     }
+
 ]

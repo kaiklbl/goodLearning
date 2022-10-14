@@ -1,0 +1,26 @@
+[
+    {
+        "question":"Was ist ein Brute Force Angriff?",
+        "answer":"Alle möglichen Kombinationen (vom Passwort) auszuprobieren, bis man auf das richtige kommt. Umso länger das Passwort ist umso länger dauert diese Methode"
+    },
+    {
+        "question":"Was ist eine Dictionary Attack?",
+        "answer":"Funktioniert, indem man ein Eigenes Wörterbuch verwendet mit oft benutzten Wörtern angepasst auf die Person/Firma. Diese Probiert man dann Systematisch aus (bei Passwörtern)"
+    },
+    {
+        "question":"",
+        "answer":""
+    },
+    {
+        "question":"",
+        "answer":""
+    },
+    {
+        "question":"",
+        "answer":""
+    },
+    {
+        "question":"",
+        "answer":""
+    }
+]

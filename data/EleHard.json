@@ -14,5 +14,29 @@
     {
         "question":"Erkläre: Was sind Ohm",
         "answer":"Ohm ist die Stromeinheit für elektrischen Widerstand."
+    },
+    {
+        "question":"Was ist ein Halbaddierer?",
+        "answer":"Er kann zwei einstellige Binärzahlen miteinander addieren. Ist ein digitales Schaltnetz."
+    },
+    {
+        "question":"Was ist ein Volladdierer?",
+        "answer":"Kann 3 einstellige Binär Zahlen addieren. Ist ein digitales Schaltnetz."
+    },
+    {
+        "question":"Was sind Subpixel?",
+        "answer":"Monitor haben Pixel, und die haben 3 Subpixel in den eigenen Farben Rot, Grün, Blau"
+    },
+    {
+        "question":"",
+        "answer":""
+    },
+    {
+        "question":"",
+        "answer":""
+    },
+    {
+        "question":"",
+        "answer":""
     }
 ]

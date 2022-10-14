@@ -80,6 +80,34 @@
         "answer":"Bubble Sort/ Insert Sort/ Selection Sort/ Merge Sort "
     },
     {
+        "question":"Was ist die ASCII Tabelle?",
+        "answer":"American Standard Code for Information Interchange. Er basiert auf einer 7-Bit-Zeichencodierung und wurde in den Anfängen des Computerzeitalters zum Standard-Code für die Anzeige von Schriftzeichen."
+    },
+    {
+        "question":"Was sind Access Modifier? (OOP)",
+        "answer":"public (Für alle Teile des Programms lesbar) // private (Nur die Klasse selbst hat Zugriff darauf) // protected (Können nur in eigener und Kind Klassen angesprochen werden)"
+    },
+    {
+        "question":"Welche Konzepte hat das OOP?",
+        "answer":"1.Class /Klasse  Der Bauplan von einem Objekt // 2.Encapsulation/Kapselung alle properties und methoden von der Klasse, in der Klasse // 3.Vererbung / Inweritance: Erbt von Elternklasse // 4.Abstraktion / abstraction: Einzelheiten bleiben verborgen, weil es uns nicht interessieren muss Hauptsache es funktioniert// 5.Polymorphismus/ polymorphism: (Vielgestalt) wir überschreiben vererbte Methoden// 6.Interface: Beschreibt eine Liste an Methoden, die die Klasse haben muss"
+    },
+    {
+        "question":"Was ist modulares Programmieren?",
+        "answer":"Strukturierte Programmierung, manchmal auch als modulare Programmierung bezeichnet, ist ein Programmierparadigma, dass die Erstellung von Programmen mit lesbarem Code und wiederverwendbaren Komponenten erleichtert. Alle modernen Programmiersprachen unterstützen strukturierte Programmierung"
+    },
+    {
+        "question":"Was sind Asymmetrische Verschlüsselungsverfahren?",
+        "answer":"Asymmetrische Verschlüsselung, auch bekannt als Public-Key-Kryptografie, verschlüsselt und entschlüsselt die Daten mit zwei separaten kryptografischen asymmetrischen Schlüsseln. Diese beiden Schlüssel werden als „öffentlicher Schlüssel“ und „privater Schlüssel“ bezeichnet."
+    },
+    {
+        "question":"Was sind Symmetrische Verschlüsselungsverfahren?",
+        "answer":"Die symmetrische Verschlüsselung ist eine Art der Verschlüsselung, bei der nur ein geheimer symmetrischer Schlüssel verwendet wird, um den Klartext zu verschlüsseln und den Chiffretext zu entschlüsseln."
+    },
+    {
+        "question":"Was ist die Ceasar Verschlüsselung?",
+        "answer":"Die Caesar Verschlüsselung, auch Cäsar Chiffre, Einfacher Caesar oder Caesar Code genannt, ist ein symmetrisches Verschlüsselungsverfahren, das nach Julius Caesar benannt ist. Dabei wird ein Klartextbuchstabe immer durch einen Buchstaben ersetzt, der x Stellen weiter rechts im Alphabet steht."
+    },
+    {
         "question":"",
         "answer":""
     },
